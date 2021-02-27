@@ -1,12 +1,59 @@
 <script>
 	import logo from "./logo.png";
+	import {Tabs} from "attractions"
+	import { navigate , Router, Link, Route } from "svelte-routing";
+	import DistressedInfo from "./components/DistressedInfo.svelte";
+	import WeatherInfo from "./components/WeatherInfo.svelte";
+	import SARInfo from "./components/SARInfo.svelte";
+	import Result from "./components/Result.svelte";
+
+	let selectedTab;
+	const handleTabs= (changedValue) => {
+		let navTo ="";
+		switch (changedValue.detail.value) {
+			case 'Distressed Unit Information':
+			navTo=	'DistressedInfo';
+				break;
+				case 'Weather Information':
+			navTo=	'WeatherInfo';
+				break;
+				case 'SAR Unit Information':
+			navTo=	'SARInfo';
+				break;
+				case 'Result':
+			navTo=	'Result';
+				break;
+		
+	
+		}
+		console.log(`navto: ${navTo}		changedValue: ${changedValue.detail.value}` );
+	navigate(`/${navTo}`);
+	};
+export let url='';
 </script>
 
 <main>
 	<div class="App">
 		<header class="App-header">
-			<img src={logo} class="App-logo" alt="logo" />
-			<p>Welcome to your new <code>wails/svelte</code> project.</p>
+			<Router url="{url}">
+			<Tabs on:change={handleTabs}
+
+			
+				name="Nav"
+				items={['Distressed Unit Information', 
+				'Weather Information', 'SAR Unit Information','Result']}
+				bind:value={selectedTab}
+
+			/>
+			<div>
+				<Route path="DistressedInfo" component="{DistressedInfo}" />
+				<Route path="WeatherInfo" component="{WeatherInfo}" />
+				<Route path="SARInfo" component="{SARInfo}" />
+				<Route path="Result" component="{Result}" />
+			
+			  </div>
+		</Router>
+
 		</header>
 	</div>
 </main>
@@ -30,27 +77,21 @@
 		text-align: center;
 	}
 
-	.App-logo {
-		height: 40vmin;
-		pointer-events: none;
-	}
-
-	@media (prefers-reduced-motion: no-preference) {
-		.App-logo {
-			animation: App-logo-spin infinite 20s linear;
-		}
-	}
+	
 
 	.App-header {
 		background-color: #282c34;
-		min-height: 100vh;
+		/*min-height: 100vh;*/
 		display: flex;
 		flex-direction: column;
 		align-items: center;
 		justify-content: center;
 		font-size: calc(10px + 2vmin);
 		color: white;
+		flex-grow: 1;
+		
 	}
+
 
 	@keyframes App-logo-spin {
 		from {
