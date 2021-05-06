@@ -1,0 +1,94 @@
+[
+    {
+        "object": "person in water",
+        "index": 1
+    },
+    {
+        "object": "power boat 10(33)",
+        "index": 5
+    },
+    {
+        "object": "power boat 16(53)",
+        "index": 6
+    },
+    {
+        "object": "power boat 24 (78)",
+        "index": 7
+    },
+    {
+        "object": "power boat 6 (20)",
+        "index": 4
+    },
+    {
+        "object": "power boat<5(15)",
+        "index": 4
+    },
+    {
+        "object": "raft 10-persons",
+        "index": 3
+    },
+    {
+        "object": "raft 15-persons",
+        "index": 3
+    },
+    {
+        "object": "raft 1-person",
+        "index": 2
+    },
+    {
+        "object": "raft 20-persons",
+        "index": 3
+    },
+    {
+        "object": "raft 25-persons",
+        "index": 3
+    },
+    {
+        "object": "raft 4-persons",
+        "index": 2
+    },
+    {
+        "object": "raft 6-persons",
+        "index": 3
+    },
+    {
+        "object": "raft 8-persons",
+        "index": 3
+    },
+    {
+        "object": "sail boat 12 (39)",
+        "index": 9
+    },
+    {
+        "object": "sail boat 15 (49)",
+        "index": 9
+    },
+    {
+        "object": "sail boat 21 (69)",
+        "index": 10
+    },
+    {
+        "object": "sail boat 25 (83)",
+        "index": 10
+    },
+    {
+        "object": "sail boat 5 (15)",
+        "index": 8
+    },
+    {
+        "object": "sail boat 8 (26)",
+        "index": 8
+    },
+    {
+        "object": "ship > 91 (300)",
+        "index": 11
+    },
+    {
+        "object": "ship 27-46(90-150)",
+        "index": 11
+    },
+    {
+        "object": "ship46-91(150-300)",
+        "index": 11
+    }
+]

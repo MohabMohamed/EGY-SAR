@@ -1,0 +1,122 @@
+[
+    {
+        "searchObject": "Aircraft less than 5700 KG",
+        "index": 2
+    },
+    {
+        "searchObject": "Aircraft over 5700 KG",
+        "index": 2
+    },
+    {
+        "searchObject": "Boat <5m (17ft)",
+        "index": 1
+    },
+    {
+        "searchObject": "Boat 12m (40ft)",
+        "index": 2
+    },
+    {
+        "searchObject": "Boat 24m (79ft)",
+        "index": 2
+    },
+    {
+        "searchObject": "Boat 7m (23ft)",
+        "index": 1
+    },
+    {
+        "searchObject": "Person",
+        "index": 1
+    },
+    {
+        "searchObject": "person in water",
+        "index": 1
+    },
+    {
+        "searchObject": "power boat 10(33)",
+        "index": 2
+    },
+    {
+        "searchObject": "power boat 16(53)",
+        "index": 2
+    },
+    {
+        "searchObject": "power boat 24 (78)",
+        "index": 2
+    },
+    {
+        "searchObject": "power boat 6 (20)",
+        "index": 1
+    },
+    {
+        "searchObject": "power boat<5(15)",
+        "index": 1
+    },
+    {
+        "searchObject": "raft 10-persons",
+        "index": 1
+    },
+    {
+        "searchObject": "raft 15-persons",
+        "index": 1
+    },
+    {
+        "searchObject": "raft 1-person",
+        "index": 1
+    },
+    {
+        "searchObject": "raft 20-persons",
+        "index": 1
+    },
+    {
+        "searchObject": "raft 25-persons",
+        "index": 1
+    },
+    {
+        "searchObject": "raft 4-persons",
+        "index": 1
+    },
+    {
+        "searchObject": "raft 6-persons",
+        "index": 1
+    },
+    {
+        "searchObject": "raft 8-persons",
+        "index": 1
+    },
+    {
+        "searchObject": "sail boat 12 (39)",
+        "index": 2
+    },
+    {
+        "searchObject": "sail boat 15 (49)",
+        "index": 2
+    },
+    {
+        "searchObject": "sail boat 21 (69)",
+        "index": 2
+    },
+    {
+        "searchObject": "sail boat 25 (83)",
+        "index": 2
+    },
+    {
+        "searchObject": "sail boat 5 (15)",
+        "index": 1
+    },
+    {
+        "searchObject": "sail boat 8 (26)",
+        "index": 1
+    },
+    {
+        "searchObject": "ship > 91 (300)",
+        "index": 2
+    },
+    {
+        "searchObject": "ship 27-46(90-150)",
+        "index": 2
+    },
+    {
+        "searchObject": "ship46-91(150-300)",
+        "index": 2
+    }
+]

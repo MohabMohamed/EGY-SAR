@@ -1,0 +1,218 @@
+[
+    {
+        "Name": "Bait/wharf box lightly loaded ( 90 kg )",
+        "Div Angle": 15.0,
+        "Error": 0.1,
+        "Series": 13
+    },
+    {
+        "Name": "Bait/wharf box, full ( 365kg )",
+        "Div Angle": 35.0,
+        "Error": 0.1,
+        "Series": 16
+    },
+    {
+        "Name": "Bait/wharf box, unknown loading",
+        "Div Angle": 35.0,
+        "Error": 0.15,
+        "Series": 16
+    },
+    {
+        "Name": "Coastal fishing vessel ( 12.5m, typical in the western Pacific Ocean )",
+        "Div Angle": 50.0,
+        "Error": 0.1,
+        "Series": 14
+    },
+    {
+        "Name": "Coastal freighter ( <=30 m ) ",
+        "Div Angle": 50.0,
+        "Error": 0.25,
+        "Series": 14
+    },
+    {
+        "Name": "Commercial fishing vessel ( 14-30 m ) Gill-netters",
+        "Div Angle": 35.0,
+        "Error": 0.1,
+        "Series": 11
+    },
+    {
+        "Name": "Commercial fishing vessel ( 14-30 m ) Trollers/Sampans/Longliners",
+        "Div Angle": 50.0,
+        "Error": 0.25,
+        "Series": 11
+    },
+    {
+        "Name": "Commercial fishing vessel ( 14-30 m ) Unknown type",
+        "Div Angle": 50.0,
+        "Error": 0.35,
+        "Series": 11
+    },
+    {
+        "Name": "F/V debris",
+        "Div Angle": 10.0,
+        "Error": 0.25,
+        "Series": 16
+    },
+    {
+        "Name": "Life capsule - fully enclosed",
+        "Div Angle": 20.0,
+        "Error": 0.1,
+        "Series": 4
+    },
+    {
+        "Name": "Life raft aviation (4-6 person)",
+        "Div Angle": 25.0,
+        "Error": 0.1,
+        "Series": 2
+    },
+    {
+        "Name": "Life raft aviation (46 person) evac / slide",
+        "Div Angle": 15.0,
+        "Error": 0.1,
+        "Series": 3
+    },
+    {
+        "Name": "Life raft deep ballast",
+        "Div Angle": 15.0,
+        "Error": 0.2,
+        "Series": 3
+    },
+    {
+        "Name": "Life raft deep ballast capsized / swamped",
+        "Div Angle": 10.0,
+        "Error": 0.1,
+        "Series": 7
+    },
+    {
+        "Name": "Life raft no ballast with canopy and drogue",
+        "Div Angle": 30.0,
+        "Error": 0.35,
+        "Series": 3
+    },
+    {
+        "Name": "Life raft no ballast, canopy unknown, drogue unknown",
+        "Div Angle": 30.0,
+        "Error": 0.35,
+        "Series": 2
+    },
+    {
+        "Name": "Life raft no ballast, no canopy, no drogue",
+        "Div Angle": 25.0,
+        "Error": 0.25,
+        "Series": 1
+    },
+    {
+        "Name": "Life raft shallow ballast capsized ",
+        "Div Angle": 10.0,
+        "Error": 0.1,
+        "Series": 6
+    },
+    {
+        "Name": "Life raft shallow ballast with drogue",
+        "Div Angle": 20.0,
+        "Error": 0.1,
+        "Series": 5
+    },
+    {
+        "Name": "Life raft shallow ballast with no drogue",
+        "Div Angle": 20.0,
+        "Error": 0.1,
+        "Series": 3
+    },
+    {
+        "Name": "Life raft shallow ballast with unknown drogue",
+        "Div Angle": 20.0,
+        "Error": 0.35,
+        "Series": 3
+    },
+    {
+        "Name": "Raft ( 2 inner tubes with frame ) no sail",
+        "Div Angle": 15.0,
+        "Error": 0.1,
+        "Series": 16
+    },
+    {
+        "Name": "Raft (2 inner tubes with frame ) with sail ",
+        "Div Angle": 35.0,
+        "Error": 0.15,
+        "Series": 8
+    },
+    {
+        "Name": "Sailing vessel, full keel, deep draft ( <9m ) ",
+        "Div Angle": 50.0,
+        "Error": 0.25,
+        "Series": 14
+    },
+    {
+        "Name": "Sailing vessels with fin keel, shoal draft (<9m, sails down)",
+        "Div Angle": 50.0,
+        "Error": 0.25,
+        "Series": 11
+    },
+    {
+        "Name": "Sea Kayak",
+        "Div Angle": 15.0,
+        "Error": 0.1,
+        "Series": 16
+    },
+    {
+        "Name": "Sea rescue kit",
+        "Div Angle": 5.0,
+        "Error": 0.1,
+        "Series": 5
+    },
+    {
+        "Name": "Skiff, flat-bottom ( <6 m )",
+        "Div Angle": 20.0,
+        "Error": 0.1,
+        "Series": 12
+    },
+    {
+        "Name": "Skiff, V-hull ( <6 m )",
+        "Div Angle": 15.0,
+        "Error": 0.1,
+        "Series": 13
+    },
+    {
+        "Name": "Skiff, V-hull, swamped",
+        "Div Angle": 15.0,
+        "Error": 0.1,
+        "Series": 17
+    },
+    {
+        "Name": "Sport boats (4.5 - 8.5 m, 2-3 m beam) side consol , modified v-hull ",
+        "Div Angle": 20.0,
+        "Error": 0.1,
+        "Series": 9
+    },
+    {
+        "Name": "Sport boats (4.5 - 8.5 m, 2-3 m beam) with cuddy",
+        "Div Angle": 20.0,
+        "Error": 0.1,
+        "Series": 9
+    },
+    {
+        "Name": "Sport fisher (5-30 m, beam width up to 7.3 ) with center consol",
+        "Div Angle": 20.0,
+        "Error": 0.1,
+        "Series": 10
+    },
+    {
+        "Name": "Sport fisher (5-30 m, beam width up to 7.3 ) with walk-around cabin",
+        "Div Angle": 20.0,
+        "Error": 0.1,
+        "Series": 10
+    },
+    {
+        "Name": "Surfboard",
+        "Div Angle": 15.0,
+        "Error": 0.25,
+        "Series": 16
+    },
+    {
+        "Name": "Windsurfer",
+        "Div Angle": 10.0,
+        "Error": 0.1,
+        "Series": 15
+    }
+]

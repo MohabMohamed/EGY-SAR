@@ -1,0 +1,157 @@
+[
+    {
+        "Search factor (fs)": 0.0,
+        "RelativeEffortIdealCo": 0.0,
+        "RelativeEffortNormalCo": 0.0
+    },
+    {
+        "Search factor (fs)": 0.1,
+        "RelativeEffortIdealCo": 0.1,
+        "RelativeEffortNormalCo": 0.1
+    },
+    {
+        "Search factor (fs)": 0.2,
+        "RelativeEffortIdealCo": 0.1,
+        "RelativeEffortNormalCo": 0.1
+    },
+    {
+        "Search factor (fs)": 0.3,
+        "RelativeEffortIdealCo": 0.2,
+        "RelativeEffortNormalCo": 0.2
+    },
+    {
+        "Search factor (fs)": 0.4,
+        "RelativeEffortIdealCo": 0.3,
+        "RelativeEffortNormalCo": 0.2
+    },
+    {
+        "Search factor (fs)": 0.5,
+        "RelativeEffortIdealCo": 0.5,
+        "RelativeEffortNormalCo": 0.3
+    },
+    {
+        "Search factor (fs)": 0.6,
+        "RelativeEffortIdealCo": 0.8,
+        "RelativeEffortNormalCo": 0.5
+    },
+    {
+        "Search factor (fs)": 0.7,
+        "RelativeEffortIdealCo": 1.3,
+        "RelativeEffortNormalCo": 0.8
+    },
+    {
+        "Search factor (fs)": 0.8,
+        "RelativeEffortIdealCo": 1.9,
+        "RelativeEffortNormalCo": 1.5
+    },
+    {
+        "Search factor (fs)": 0.9,
+        "RelativeEffortIdealCo": 2.7,
+        "RelativeEffortNormalCo": 2.3
+    },
+    {
+        "Search factor (fs)": 1.0,
+        "RelativeEffortIdealCo": 3.7,
+        "RelativeEffortNormalCo": 3.6
+    },
+    {
+        "Search factor (fs)": 1.1,
+        "RelativeEffortIdealCo": 5.0,
+        "RelativeEffortNormalCo": 5.2
+    },
+    {
+        "Search factor (fs)": 1.2,
+        "RelativeEffortIdealCo": 6.4,
+        "RelativeEffortNormalCo": 7.3
+    },
+    {
+        "Search factor (fs)": 1.3,
+        "RelativeEffortIdealCo": 8.2,
+        "RelativeEffortNormalCo": 10.0
+    },
+    {
+        "Search factor (fs)": 1.4,
+        "RelativeEffortIdealCo": 10.3,
+        "RelativeEffortNormalCo": 13.4
+    },
+    {
+        "Search factor (fs)": 1.51,
+        "RelativeEffortIdealCo": 12.9,
+        "RelativeEffortNormalCo": 17.9
+    },
+    {
+        "Search factor (fs)": 1.61,
+        "RelativeEffortIdealCo": 15.5,
+        "RelativeEffortNormalCo": 22.9
+    },
+    {
+        "Search factor (fs)": 1.7,
+        "RelativeEffortIdealCo": 18.2,
+        "RelativeEffortNormalCo": 28.6
+    },
+    {
+        "Search factor (fs)": 1.8,
+        "RelativeEffortIdealCo": 22.0,
+        "RelativeEffortNormalCo": 36.0
+    },
+    {
+        "Search factor (fs)": 1.9,
+        "RelativeEffortIdealCo": 26.0,
+        "RelativeEffortNormalCo": 44.3
+    },
+    {
+        "Search factor (fs)": 2.0,
+        "RelativeEffortIdealCo": 30.0,
+        "RelativeEffortNormalCo": 54.0
+    },
+    {
+        "Search factor (fs)": 2.1,
+        "RelativeEffortIdealCo": 34.5,
+        "RelativeEffortNormalCo": 65.3
+    },
+    {
+        "Search factor (fs)": 2.2,
+        "RelativeEffortIdealCo": 40.0,
+        "RelativeEffortNormalCo": 78.2
+    },
+    {
+        "Search factor (fs)": 2.3,
+        "RelativeEffortIdealCo": 46.0,
+        "RelativeEffortNormalCo": 92.0
+    },
+    {
+        "Search factor (fs)": 2.4,
+        "RelativeEffortIdealCo": 52.0,
+        "RelativeEffortNormalCo": ""
+    },
+    {
+        "Search factor (fs)": 2.5,
+        "RelativeEffortIdealCo": 58.3,
+        "RelativeEffortNormalCo": ""
+    },
+    {
+        "Search factor (fs)": 2.6,
+        "RelativeEffortIdealCo": 66.0,
+        "RelativeEffortNormalCo": ""
+    },
+    {
+        "Search factor (fs)": 2.7,
+        "RelativeEffortIdealCo": 74.0,
+        "RelativeEffortNormalCo": ""
+    },
+    {
+        "Search factor (fs)": 2.8,
+        "RelativeEffortIdealCo": 82.0,
+        "RelativeEffortNormalCo": ""
+    },
+    {
+        "Search factor (fs)": 2.9,
+        "RelativeEffortIdealCo": 91.9,
+        "RelativeEffortNormalCo": ""
+    },
+    {
+        "Search factor (fs)": 3.0,
+        "RelativeEffortIdealCo": 101.0,
+        "RelativeEffortNormalCo": ""
+    }
+]
