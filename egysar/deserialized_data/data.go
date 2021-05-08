@@ -8,6 +8,8 @@ import (
 	"os"
 )
 
+var data *DeserializedData
+
 type DeserializedData struct {
 	LeewayUnits                 []DTO.LeewayUnit
 	LeewayErrors                []DTO.LeewayError
@@ -21,7 +23,7 @@ type DeserializedData struct {
 	SearchFactors               []DTO.SearchFactor
 }
 
-func ParseAllData() DeserializedData {
+func ParseAllData() *DeserializedData {
 
 	var leewayUnits []DTO.LeewayUnit
 	byteValue := readJsonFile("leeway unit types.json")
@@ -74,7 +76,7 @@ func ParseAllData() DeserializedData {
 		SpeedCorrFactorsHelo:        speedCorrFactorsHelo,
 		SearchFactors:               searchFactors,
 	}
-	return ResultData
+	return &ResultData
 }
 
 func readJsonFile(fileName string) []byte {
@@ -89,4 +91,12 @@ func readJsonFile(fileName string) []byte {
 		fmt.Println(err)
 	}
 	return byteValue
+}
+
+func GetData() *DeserializedData {
+
+	if data == nil {
+		data = ParseAllData()
+	}
+	return data
 }
